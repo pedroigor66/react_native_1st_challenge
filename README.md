@@ -15,10 +15,11 @@ In this project a mobile App was developed for Android and iOS using React Nativ
 
 This project was developed using the following techs:
 
-- [React](https://reactnative.dev/)
+- [React Native](https://reactnative.dev/)
 - [CSS with Styled Components](https://styled-components.com/)
 - [Axios](https://github.com/axios/axios)
 - [Android Studio](https://developer.android.com/studio)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ---
 
